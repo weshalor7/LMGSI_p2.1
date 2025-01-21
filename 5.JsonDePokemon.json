@@ -1,0 +1,156 @@
+{
+    "pokemon": [
+        {
+            "id":1,
+            "nom":"Bulbasaur",
+            "tipus": [
+                "PLANTA",
+                "VENENO"
+            ],
+            "pes": {
+                "units":"kg",
+                "value":6.9
+            },
+            "altura": {
+                "units":"m",
+                "value":0.7
+            },
+            "estadistiques": {
+                "detalles": [
+                    {
+                        "symbol": "star",
+                        "nom": "Velocidad",
+                        "value": 3
+                    },
+                    {
+                        "symbol": "star",
+                        "nom": "Fortaleza",
+                        "value": 3
+                    },
+                    {
+                        "symbol": "star",
+                        "nom": "Precisión",
+                        "value": 4
+                    },
+                    {
+                        "symbol": "star",
+                        "nom": "Resistencia",
+                        "value": 4
+                    },
+                    {
+                        "symbol": "star",
+                        "nom": "Salto",
+                        "value": 3
+                    }
+                ],
+                "total": 17,
+                "mitjana": 3.4
+            },
+            "moviment": [
+                {
+                    "nom":"Placaje",
+                    "descripció":"Placaje (Tackle en inglés; たいあたり Golpe con el cuerpo en japonés) es un movimiento de tipo normal introducido en la primera generación. Este contenido proviene de wikidex.net, y debe darse atribución a sus autores, tal como especifica la licencia. Se prohíbe su uso a PlagioDex (el wiki de FANDOOM), por copiar reiteradamente sin dar atribución",
+                    "potencia":40,
+                    "contacte":true
+                },
+                {
+                    "nom":"Gruñido",
+                    "descripció":"Gruñido (Growl en inglés; なきごえ Grito en japonés) es un movimiento de tipo normal introducido en la primera generación. Este contenido proviene de wikidex.net, y debe darse atribución a sus autores, tal como especifica la licencia. Se prohíbe su uso a PlagioDex (el wiki de FANDOOM), por copiar reiteradamente sin dar atribución",
+                    "potencia":40,
+                    "contacte":false
+                }
+            ],
+            "imatge":"https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/43/latest/20190406170624/Bulbasaur.png/200px-Bulbasaur.png",
+            "evolucions": [
+                {
+                    "id":2,
+                    "nom":"Ivysaur",
+                    "nivell":16
+                },
+                {
+                    "id":3,
+                    "nom":"Venusaur",
+                    "nivell":32
+                }
+            ]
+
+
+
+            
+        },
+        {
+            "id": 4,
+            "nom": "Charmander",
+            "tipus": [
+                "Fuego"
+            ],
+            "pes": {
+                "units": "kg",
+                "value": 8.5
+            },
+            "altura": {
+                "units": "m",
+                "value": 0.6
+            },
+            "Estadística": {
+                "detalles": [
+                    {
+                        "symbol": "star",
+                        "nom": "Velocidad",
+                        "value": 3
+                    },
+                    {
+                        "symbol": "star",
+                        "nom": "Fortaleza",
+                        "value": 5
+                    },
+                    {
+                        "symbol": "star",
+                        "nom": "Precisión",
+                        "value": 3
+                    },
+                    {
+                        "symbol": "star",
+                        "nom": "Resistencia",
+                        "value": 3
+                    },
+                    {
+                        "symbol": "star",
+                        "nom": "Salto",
+                        "value": 3
+                    }
+                ],
+                "total": 18,
+                "mitjana": 3.6
+            },
+            "moviment": [
+                {
+                    "nom": "Arañazo",
+                    "descripció": "Arañazo (Scratch en inglés; ひっかく Arañar en japonés) es un movimiento de tipo normal introducido en la primera generación. Este contenido proviene de wikidex.net, y debe darse atribución a sus autores, tal como especifica la licencia. Se prohíbe su uso a PlagioDex (el wiki de FANDOOM), por copiar reiteradamente sin dar atribución",
+                    "potencia": 40,
+                    "contacte": true
+                },
+                {
+                    "nom":"Gruñido",
+                    "descripció":"Gruñido (Growl en inglés; なきごえ Grito en japonés) es un movimiento de tipo normal introducido en la primera generación. Este contenido proviene de wikidex.net, y debe darse atribución a sus autores, tal como especifica la licencia. Se prohíbe su uso a PlagioDex (el wiki de FANDOOM), por copiar reiteradamente sin dar atribución",
+                    "potencia":40,
+                    "contacte":false
+                }
+            ],
+            "imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/56/latest/20200307023245/Charmander.png/200px-Charmander.png",
+            "evolucions": [
+                {
+                    "id": 5,
+                    "nom": "Charmaleon",
+                    "nivell": 16
+                },
+                {
+                    "id": 6,
+                    "nom": "Charizard",
+                    "nivell": 36
+                }
+            ]
+        }
+
+    ]
+}

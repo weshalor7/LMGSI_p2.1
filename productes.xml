@@ -1,0 +1,25 @@
+<?xml version="1.0" enconding="UTF-8"?>
+<!--Obrim botiga-->
+<botiga>
+    <!--Aquí catalog de productes-->
+    <producte categoria="begudes" codi="1">
+        <!--Aquí els detalls del producte-->
+        <nom>llet</nom>
+        <descripcio>Prové de granges locals</descripcio>
+        <preu moneda="dollars">2,99</preu>
+        <disponibilitat>en estoc</disponibilitat>
+        <imatge>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0WCDtl5_T3QNVwgzig_5szYbpmdPguma49A&s</imatge>
+    </producte>
+
+    <producte categoria="begudes" codi="2">
+        <nom>botella d'aigua</nom>
+        <descripcio>Aigua del Pirineus</descripcio>
+        <preu moneda="dollars">0,80</preu>
+        <disponibilitat>en estoc</disponibilitat>
+        <imatge>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCki-4L_1QAEHf5P57mNNl-KNYsJ1KpqrZuQ&s</imatge>
+    </producte>
+
+
+<!--Tanquem botiga-->
+</botiga>
+    
